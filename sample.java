@@ -8,7 +8,7 @@ class HelloWorld
 	{ 
 		System.out.println("Hello, World");
 	string var = "true"
-		if (var.equals(true))
+		if (var=="true")
 			System.out.println("Hello, World version 2");
 		    
 	} 
